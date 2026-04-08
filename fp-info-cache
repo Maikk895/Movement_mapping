@@ -1,4 +1,4 @@
-26677203938461179
+26686080289798251
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105497,6 +105497,13 @@ BAT_BK-18650-PC2
 2
 2
 Uklad_wzmacniaczy_footprints
+CONN_MEM2080-00-128-00-A_GCT
+
+MEM2080-00-128-00-A 
+0
+14
+14
+Uklad_wzmacniaczy_footprints
 CUI_SJ1-3523N
 
 
@@ -105553,6 +105560,20 @@ OPA189IDR
 8
 8
 Uklad_wzmacniaczy_footprints
+INDC2520X120N
+
+
+0
+2
+2
+Uklad_wzmacniaczy_footprints
+IND_SPM6530T-1R0M120
+
+
+0
+2
+2
+Uklad_wzmacniaczy_footprints
 MSE_05-08-1666_ADI
 
 LT3094EMSE-TRPBF 
@@ -105573,6 +105594,13 @@ LT3094EMSE-TRPBF
 0
 13
 13
+Uklad_wzmacniaczy_footprints
+Nucleo-H755ZIQ
+
+
+0
+100
+100
 Uklad_wzmacniaczy_footprints
 RM_8_ADI
 
@@ -105636,6 +105664,13 @@ REF2033QDDCRQ1
 0
 5
 5
+Uklad_wzmacniaczy_footprints
+SOT50P160X60-6N
+
+
+0
+6
+6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
