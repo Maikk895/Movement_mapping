@@ -7671,6 +7671,16 @@
 		)
 		(uuid "29dc4204-7f8e-4a4e-96ca-8ae9084d6071")
 	)
+	(text "Dodać potencjometry cyfrowe oraz gniazda do podpięcia czujników rezystancyjnych"
+		(exclude_from_sim no)
+		(at 272.034 -18.288 0)
+		(effects
+			(font
+				(size 10 10)
+			)
+		)
+		(uuid "3a5a2f4b-596d-4dc2-9701-670d8e03b146")
+	)
 	(text "Nucleo\nFootprint"
 		(exclude_from_sim no)
 		(at 324.104 79.756 0)
@@ -15493,73 +15503,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 73.66 207.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4473c115-af57-4334-84f1-ef39d52155d6")
-		(property "Reference" "#PWR046"
-			(at 77.47 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 69.85 207.0099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 73.66 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 73.66 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 73.66 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4dec27ef-6b83-453f-9995-b3b6bd563c06")
-		)
-		(instances
-			(project "Uklad_wzmacniaczy"
-				(path "/5beef803-c264-4e64-a820-2636d42e5954"
-					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 181.61 199.39 0)
 		(unit 1)
@@ -18561,6 +18504,71 @@
 			(project "Uklad_wzmacniaczy"
 				(path "/5beef803-c264-4e64-a820-2636d42e5954"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 73.66 207.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "94ca0ee8-9afa-4f04-9ce0-a0957c3fbbb6")
+		(property "Reference" "#PWR046"
+			(at 77.47 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 67.818 207.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 73.66 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7fe5670-e915-4146-8231-a5e353ba6f33")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
