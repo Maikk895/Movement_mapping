@@ -1,4 +1,4 @@
-26686080335797894
+26693189922821544
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105602,6 +105602,13 @@ Nucleo-H755ZIQ
 100
 100
 Uklad_wzmacniaczy_footprints
+Nucleo-H755ZIQ-Morpho
+
+
+0
+160
+80
+Uklad_wzmacniaczy_footprints
 RM_8_ADI
 
 AD8421ARMZ 
@@ -105622,6 +105629,27 @@ AD8421ARMZ
 0
 8
 8
+Uklad_wzmacniaczy_footprints
+RM_10_ADI
+
+AD5162BRMZ10-RL7 
+0
+10
+10
+Uklad_wzmacniaczy_footprints
+RM_10_ADI-L
+
+AD5162BRMZ10-RL7 
+0
+10
+10
+Uklad_wzmacniaczy_footprints
+RM_10_ADI-M
+
+AD5162BRMZ10-RL7 
+0
+10
+10
 Uklad_wzmacniaczy_footprints
 RTE16_1P7X1P7
 
