@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.8034,
-          "width": 1.8034
+          "height": 0.95,
+          "width": 1.075
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -919,7 +919,7 @@
         "uuid": "5beef803-c264-4e64-a820-2636d42e5954"
       }
     ],
-    "used_designators": "U13,J3,#PWR77-82",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
