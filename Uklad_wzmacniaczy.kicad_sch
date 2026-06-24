@@ -8475,6 +8475,12 @@
 		(uuid "16a64a6f-9e9f-4ed1-9500-5308ba3753bd")
 	)
 	(junction
+		(at 309.88 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17a4aaa7-a27d-4583-91e6-9bf1a419ef18")
+	)
+	(junction
 		(at 367.03 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8511,6 +8517,12 @@
 		(uuid "36d2bb38-075a-4369-8a96-3c5c14649b5f")
 	)
 	(junction
+		(at 292.1 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b954d70-19a4-4358-991e-b92f8e5e7433")
+	)
+	(junction
 		(at 242.57 265.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8533,6 +8545,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49ce9ab9-7c32-4741-9e05-400445e9f6fb")
+	)
+	(junction
+		(at 292.1 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b185818-f372-459c-85d5-d3f3da4a529e")
 	)
 	(junction
 		(at 200.66 72.39)
@@ -8599,6 +8617,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7af68d1e-44c6-4a1e-aa89-eb52e22db983")
+	)
+	(junction
+		(at 300.99 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b2b49ba-9564-416d-bb4c-b1e1b5bef281")
 	)
 	(junction
 		(at 336.55 139.7)
@@ -8703,6 +8727,12 @@
 		(uuid "ae2380c1-3159-4572-bcff-5b5f136191ec")
 	)
 	(junction
+		(at 309.88 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2f4813f-b2bf-4389-bcdf-fc288e973862")
+	)
+	(junction
 		(at 72.39 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8731,6 +8761,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bea910e8-71d2-41bd-ac20-78329c25d31b")
+	)
+	(junction
+		(at 300.99 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "beec0ef1-84e7-4fd6-9d46-e309ba57aecb")
 	)
 	(junction
 		(at 181.61 189.23)
@@ -8893,7 +8929,7 @@
 		(uuid "2d9656bd-acbe-43ad-86d1-443f235092b3")
 	)
 	(no_connect
-		(at 137.16 189.23)
+		(at 146.05 189.23)
 		(uuid "2fbba5d3-8dbc-412a-b65f-b86abeade920")
 	)
 	(no_connect
@@ -8923,6 +8959,16 @@
 	(no_connect
 		(at 339.09 179.07)
 		(uuid "e6e95616-4f30-4df1-b39b-69915f42e9b8")
+	)
+	(wire
+		(pts
+			(xy 312.42 215.9) (xy 309.88 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00d57cb3-6899-4cb2-9712-dcf32ca97d84")
 	)
 	(wire
 		(pts
@@ -9726,6 +9772,16 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 226.06) (xy 309.88 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d259e32-b10e-47a2-b31d-ada5cc297c69")
+	)
+	(wire
+		(pts
 			(xy 231.14 191.77) (xy 231.14 189.23)
 		)
 		(stroke
@@ -10023,6 +10079,26 @@
 			(type default)
 		)
 		(uuid "49ea78dd-3765-4cc9-9379-738a71b97839")
+	)
+	(wire
+		(pts
+			(xy 300.99 215.9) (xy 300.99 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a63ddbe-8d00-44fa-8d34-74a516f4cb8d")
+	)
+	(wire
+		(pts
+			(xy 292.1 218.44) (xy 292.1 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aa850bd-c2a8-4b21-a0bf-fe58a54162e4")
 	)
 	(wire
 		(pts
@@ -10626,6 +10702,16 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 215.9) (xy 309.88 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f4f00d7-cc25-4502-9d98-ccd4fede9fe7")
+	)
+	(wire
+		(pts
 			(xy 260.35 78.74) (xy 232.41 78.74)
 		)
 		(stroke
@@ -10696,6 +10782,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 226.06) (xy 292.1 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d72a3d-ba30-4254-88bd-1ea10ee30019")
+	)
+	(wire
+		(pts
 			(xy 185.42 189.23) (xy 181.61 189.23)
 		)
 		(stroke
@@ -10703,6 +10799,16 @@
 			(type default)
 		)
 		(uuid "73048c44-0d32-4d8c-8d6d-a13bf0d2e8b7")
+	)
+	(wire
+		(pts
+			(xy 300.99 226.06) (xy 300.99 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "732fd1cb-0220-457d-81b9-8ad78b3c1c08")
 	)
 	(wire
 		(pts
@@ -10986,6 +11092,16 @@
 	)
 	(wire
 		(pts
+			(xy 283.21 228.6) (xy 309.88 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84c90761-47d3-4122-81b3-780ccf703bca")
+	)
+	(wire
+		(pts
 			(xy 294.64 190.5) (xy 303.53 190.5)
 		)
 		(stroke
@@ -11106,6 +11222,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 189.23) (xy 146.05 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c810ad0-fb93-4e7e-9e41-8fe148fa533f")
+	)
+	(wire
+		(pts
 			(xy 242.57 250.19) (xy 242.57 254)
 		)
 		(stroke
@@ -11153,6 +11279,16 @@
 			(type default)
 		)
 		(uuid "8e47801b-6bf6-4668-a375-318812fda955")
+	)
+	(wire
+		(pts
+			(xy 313.69 228.6) (xy 309.88 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e6ce16f-7bed-42cb-8726-3bcd0a2a2e81")
 	)
 	(wire
 		(pts
@@ -11233,6 +11369,16 @@
 			(type default)
 		)
 		(uuid "937a3bea-d660-4561-86f7-e02b0a6d7d74")
+	)
+	(wire
+		(pts
+			(xy 283.21 215.9) (xy 292.1 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93a812a0-dd78-428f-8f2b-9a1f626fa049")
 	)
 	(wire
 		(pts
@@ -11646,6 +11792,16 @@
 	)
 	(wire
 		(pts
+			(xy 283.21 215.9) (xy 283.21 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad4e722e-6b8a-4e3b-a520-2d208474d366")
+	)
+	(wire
+		(pts
 			(xy 400.05 179.07) (xy 400.05 184.15)
 		)
 		(stroke
@@ -12056,6 +12212,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 228.6) (xy 313.69 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7ecaefe-ee63-4df9-b4bf-7b873b3814c7")
+	)
+	(wire
+		(pts
 			(xy 207.01 130.81) (xy 218.44 130.81)
 		)
 		(stroke
@@ -12133,6 +12299,16 @@
 			(type default)
 		)
 		(uuid "cb7e7578-dee3-4286-9094-b0164c038ace")
+	)
+	(wire
+		(pts
+			(xy 283.21 226.06) (xy 283.21 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb81a51a-7075-4a3f-9849-02ddae5fc5e7")
 	)
 	(wire
 		(pts
@@ -12516,6 +12692,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 215.9) (xy 300.99 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e83a8280-88b0-45fc-8417-86c751869e36")
+	)
+	(wire
+		(pts
 			(xy 226.06 240.03) (xy 228.6 240.03)
 		)
 		(stroke
@@ -12643,6 +12829,16 @@
 			(type default)
 		)
 		(uuid "f32b2ad9-699d-42a8-b680-d152ccc303cd")
+	)
+	(wire
+		(pts
+			(xy 309.88 215.9) (xy 300.99 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3d9d2f1-4a1b-44e1-a668-bdaabf4227b8")
 	)
 	(wire
 		(pts
@@ -13393,6 +13589,16 @@
 			(justify left bottom)
 		)
 		(uuid "bad589c7-7d6e-4ccd-898e-eef52ac41a29")
+	)
+	(label "Thermal"
+		(at 146.05 189.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bcbebea0-bd86-4e20-925f-7692c5cc2348")
 	)
 	(label "SIG_2"
 		(at 331.47 181.61 0)
@@ -14956,6 +15162,83 @@
 			(project "Uklad_wzmacniaczy"
 				(path "/5beef803-c264-4e64-a820-2636d42e5954"
 					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 312.42 215.9 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "228ea728-b1f3-4d52-bf5e-8c7e437fc3a4")
+		(property "Reference" "#PWR083"
+			(at 308.61 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 318.262 215.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 312.42 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 312.42 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1d4d9fc4-ffa4-4334-b3f4-4572645c8bb6")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -16896,6 +17179,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 283.21 222.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4f5480cf-950f-4259-9cbe-b1dadc164b1b")
+		(property "Reference" "C44"
+			(at 279.146 220.218 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 283.21 224.282 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 284.1752 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 283.21 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e36f28cc-c14a-4f61-bc63-4bfab9672455")
+		)
+		(pin "2"
+			(uuid "8fd6f49b-1b9d-42e5-9d30-87d7534aa41d")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "C44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDA")
 		(at 194.31 114.3 0)
 		(unit 1)
@@ -17123,6 +17487,87 @@
 			(project "Uklad_wzmacniaczy"
 				(path "/5beef803-c264-4e64-a820-2636d42e5954"
 					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 300.99 222.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "599d5278-4815-4e25-b20b-692ac77a1b5c")
+		(property "Reference" "C46"
+			(at 296.926 220.218 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 300.99 224.282 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 301.9552 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 300.99 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 300.99 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fc1fe8b7-81d1-4b1e-92ff-03f524271413")
+		)
+		(pin "2"
+			(uuid "dd7b58f4-57b7-4dce-831b-a44986b05639")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -20864,6 +21309,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDA")
+		(at 313.69 229.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a9ce6807-019b-460e-9857-6dd777d25463")
+		(property "Reference" "#PWR084"
+			(at 313.69 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 313.69 233.426 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 313.69 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 313.69 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 313.69 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35c9be2c-8075-4d55-a720-be0336cd2b22")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 281.94 140.97 90)
 		(unit 1)
@@ -21565,6 +22087,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 309.88 222.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bca551a2-d54b-4b09-9788-7eab44175ca5")
+		(property "Reference" "C47"
+			(at 305.816 220.218 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 309.88 224.282 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 310.8452 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 309.88 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 309.88 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8e2a476d-23f6-4f60-ac84-856d8b2d9a47")
+		)
+		(pin "2"
+			(uuid "c40f724f-a1f2-410e-9a6b-065f8160e96c")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "C47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 242.57 36.83 0)
 		(unit 1)
@@ -21802,6 +22405,83 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
+		(at 237.49 182.88 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c13cb6f0-a456-4804-afd2-805190dcc97b")
+		(property "Reference" "#PWR060"
+			(at 243.84 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 241.046 182.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 237.49 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 237.49 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 237.49 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e835e1f8-0101-415d-a0cf-bb59a020c854")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
 		(at 92.71 247.65 0)
 		(unit 1)
 		(body_style 1)
@@ -21872,6 +22552,87 @@
 			(project "Uklad_wzmacniaczy"
 				(path "/5beef803-c264-4e64-a820-2636d42e5954"
 					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 292.1 222.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c3f165b9-594f-41b3-9c6e-e2548738e199")
+		(property "Reference" "C45"
+			(at 288.036 220.218 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 292.1 224.282 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 293.0652 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 292.1 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 292.1 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f42a628d-c17a-42b1-9983-8ff69e89eaa3")
+		)
+		(pin "2"
+			(uuid "91cea1de-745d-4561-9180-b3a5237e7795")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -23356,83 +24117,6 @@
 			(project "Uklad_wzmacniaczy"
 				(path "/5beef803-c264-4e64-a820-2636d42e5954"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 237.49 182.88 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e647b9cc-8d62-45d3-a799-f9aa44bf0652")
-		(property "Reference" "#PWR037"
-			(at 243.84 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 241.046 182.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 237.49 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 237.49 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c88ef041-b6c4-457c-a7b7-fd860bcfc77f")
-		)
-		(instances
-			(project "Uklad_wzmacniaczy"
-				(path "/5beef803-c264-4e64-a820-2636d42e5954"
-					(reference "#PWR037")
 					(unit 1)
 				)
 			)
