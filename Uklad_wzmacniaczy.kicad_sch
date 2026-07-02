@@ -8713,17 +8713,6 @@
 		)
 		(uuid "bace5991-674d-4b25-95a2-2df0cd3de883")
 	)
-	(text "PLAN:\n[x] DODAĆ SLOT MICRO SD\n[x] WZMACNIACZ INSTRUMENTAL\n[x] WZMACNIACZ 2 STOPNIA\n[x] NAPIĘCIE ODNIESIENIA 1,65v\n[x] NAPIĘCIE ODNIESIENIA +5V I -5V\n[x] ZASILANIE 5V\n[x] DODAĆ DIGIPOT\n"
-		(exclude_from_sim no)
-		(at 424.434 36.068 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(justify left)
-		)
-		(uuid "feab367b-d215-42f3-8cb9-d6e6ecf12f30")
-	)
 	(junction
 		(at 250.19 40.64)
 		(diameter 0)
@@ -9332,7 +9321,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 95.25) (xy 350.52 95.25)
+			(xy 342.9 97.79) (xy 350.52 97.79)
 		)
 		(stroke
 			(width 0)
@@ -9942,7 +9931,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 97.79) (xy 350.52 97.79)
+			(xy 342.9 100.33) (xy 350.52 100.33)
 		)
 		(stroke
 			(width 0)
@@ -10782,6 +10771,16 @@
 	)
 	(wire
 		(pts
+			(xy 345.44 83.82) (xy 350.52 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "615e98c4-c72a-481e-9406-b0810e89666d")
+	)
+	(wire
+		(pts
 			(xy 259.08 50.8) (xy 259.08 52.07)
 		)
 		(stroke
@@ -11192,7 +11191,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 87.63) (xy 350.52 87.63)
+			(xy 342.9 90.17) (xy 350.52 90.17)
 		)
 		(stroke
 			(width 0)
@@ -11282,7 +11281,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 92.71) (xy 350.52 92.71)
+			(xy 342.9 95.25) (xy 350.52 95.25)
 		)
 		(stroke
 			(width 0)
@@ -11792,7 +11791,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 90.17) (xy 350.52 90.17)
+			(xy 342.9 92.71) (xy 350.52 92.71)
 		)
 		(stroke
 			(width 0)
@@ -12362,7 +12361,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 85.09) (xy 350.52 85.09)
+			(xy 342.9 87.63) (xy 350.52 87.63)
 		)
 		(stroke
 			(width 0)
@@ -13491,7 +13490,7 @@
 		(uuid "0038fd07-864d-40b0-9cf3-ff23d5fe187a")
 	)
 	(label "SIG_1"
-		(at 342.9 85.09 0)
+		(at 342.9 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13771,7 +13770,7 @@
 		(uuid "4dd304df-9813-40d3-b41a-8a9583815925")
 	)
 	(label "SIG_4"
-		(at 342.9 92.71 0)
+		(at 342.9 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14111,7 +14110,7 @@
 		(uuid "b63ee617-0c14-4892-89a8-627b61f903f4")
 	)
 	(label "SIG_3"
-		(at 342.9 90.17 0)
+		(at 342.9 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14221,7 +14220,7 @@
 		(uuid "d4ea42c2-1fa5-4f11-95c2-2b2b4273f535")
 	)
 	(label "SIG_5"
-		(at 342.9 95.25 0)
+		(at 342.9 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14241,7 +14240,7 @@
 		(uuid "de16f1eb-9949-49cf-9922-f00322ee3e74")
 	)
 	(label "SIG_2"
-		(at 342.9 87.63 0)
+		(at 342.9 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14271,7 +14270,7 @@
 		(uuid "e005dd93-5803-4572-aa45-92f14b35e6c7")
 	)
 	(label "SIG_6"
-		(at 342.9 97.79 0)
+		(at 342.9 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14403,7 +14402,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.pl/pl/products/detail/texas-instruments/tpd4e1b06drlr/4878711"
 			(at 101.6 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -14495,6 +14494,83 @@
 			(project "Uklad_wzmacniaczy"
 				(path "/5beef803-c264-4e64-a820-2636d42e5954"
 					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 345.44 83.82 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "053f92b5-e692-4868-9b20-22925102d9a3")
+		(property "Reference" "#PWR096"
+			(at 349.25 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V_Nucleo"
+			(at 336.042 83.566 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 345.44 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 345.44 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7c9c252a-233d-49bc-b91b-abbac956077e")
+		)
+		(instances
+			(project "Uklad_wzmacniaczy"
+				(path "/5beef803-c264-4e64-a820-2636d42e5954"
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -17168,8 +17244,8 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
-			(at 323.088 139.7 90)
+		(property "Value" "+3.3V_Nucleo"
+			(at 322.58 141.732 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28272,7 +28348,7 @@
 			)
 		)
 		(pin "SIG_1" input
-			(at 350.52 85.09 180)
+			(at 350.52 87.63 180)
 			(uuid "05075774-74c2-49c7-9acd-01b99b8b0d3b")
 			(effects
 				(font
@@ -28282,7 +28358,7 @@
 			)
 		)
 		(pin "SIG_3" input
-			(at 350.52 90.17 180)
+			(at 350.52 92.71 180)
 			(uuid "bb643a09-81b8-4ad7-b154-592fe0014e06")
 			(effects
 				(font
@@ -28292,7 +28368,7 @@
 			)
 		)
 		(pin "SIG_4" input
-			(at 350.52 92.71 180)
+			(at 350.52 95.25 180)
 			(uuid "8bff3afe-676f-4761-b74c-7ece64803511")
 			(effects
 				(font
@@ -28302,7 +28378,7 @@
 			)
 		)
 		(pin "SIG_5" input
-			(at 350.52 95.25 180)
+			(at 350.52 97.79 180)
 			(uuid "06d15662-b84c-4fc7-8442-edfbca4ab263")
 			(effects
 				(font
@@ -28312,7 +28388,7 @@
 			)
 		)
 		(pin "SIG_2" input
-			(at 350.52 87.63 180)
+			(at 350.52 90.17 180)
 			(uuid "b52c39b1-3cb5-4944-b521-ba779d89a5aa")
 			(effects
 				(font
@@ -28322,7 +28398,7 @@
 			)
 		)
 		(pin "SIG_6" input
-			(at 350.52 97.79 180)
+			(at 350.52 100.33 180)
 			(uuid "6821ac27-ad6c-4a6b-b50f-1b080887a769")
 			(effects
 				(font
@@ -28384,6 +28460,16 @@
 		(pin "SS_3" output
 			(at 350.52 115.57 180)
 			(uuid "06b59cbc-0854-4379-9581-d37c7c70d9ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3.3V_Nucleo" output
+			(at 350.52 83.82 180)
+			(uuid "51b424ff-55bd-4130-acf2-c1cdf44a8a67")
 			(effects
 				(font
 					(size 1.27 1.27)
