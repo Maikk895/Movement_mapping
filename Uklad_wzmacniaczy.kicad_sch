@@ -8693,6 +8693,16 @@
 		)
 		(uuid "47cbb99c-9d38-4b80-965f-906f9cf0a53a")
 	)
+	(text "Rezystor 200k do 400k"
+		(exclude_from_sim no)
+		(at 273.558 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "56950874-e81e-445c-a7e6-391032c460ee")
+	)
 	(text "Test points"
 		(exclude_from_sim no)
 		(at 29.21 71.374 0)
@@ -8712,6 +8722,16 @@
 			)
 		)
 		(uuid "bace5991-674d-4b25-95a2-2df0cd3de883")
+	)
+	(text "Rezystor 200k do 400k"
+		(exclude_from_sim no)
+		(at 297.688 111.252 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c9c8ad08-246b-4f29-a9f5-19606e809932")
 	)
 	(junction
 		(at 250.19 40.64)
@@ -16691,7 +16711,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200-400k"
+		(property "Value" "220k"
 			(at 296.926 122.428 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24299,7 +24319,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200-400k"
+		(property "Value" "220k"
 			(at 261.366 70.358 0)
 			(show_name no)
 			(do_not_autoplace no)

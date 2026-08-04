@@ -761,7 +761,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "BOM/",
+      "plot": "Gerber_files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
