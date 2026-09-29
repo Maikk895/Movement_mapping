@@ -5001,6 +5001,17 @@
 			(uuid "2c2d0181-6f89-406e-b158-e508bdca1659")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/LT3042EMSE_TRPBF/05-08-1664_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(locked yes)
@@ -8807,6 +8818,17 @@
 			(uuid "ca7437d4-6d95-46ba-862a-c12fd35024b6")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/AD8421ARMZ/RM_8_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(locked yes)
@@ -9353,6 +9375,17 @@
 			(uuid "8487da3b-60d4-4286-883d-9b1367661fb9")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/TPS61236PRWLR/RWL0009A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(locked yes)
@@ -11153,6 +11186,17 @@
 			(uuid "111413e4-c08b-4f70-99c1-a83b59e32437")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/BK_18650_PC2/BK-18650-PC2.step"
+			(offset
+				(xyz 0 0 -3.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 180)
+			)
+		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(locked yes)
@@ -16127,6 +16171,17 @@
 			(uuid "6d96ab65-d4b3-4991-94b0-8d0034c6f5bf")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/SJ1_3523N/SJ1-3523N.step"
+			(offset
+				(xyz 0 -7 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(locked yes)
@@ -18400,6 +18455,17 @@
 			(uuid "a582dc5b-74d9-4ce8-b9dc-130f30564eb8")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/TPS65135RTER/RTE0016C.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(locked yes)
@@ -19951,6 +20017,17 @@
 			(uuid "79cf5c6b-b8e2-497a-80ca-30cddb376cdd")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/REF2033QDDCRQ1/DDC0005A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(locked yes)
@@ -21213,6 +21290,17 @@
 			(uuid "4c12f055-498e-4d6d-bd05-8d0493e3739f")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/TPD4E1B06DRLR/TPD4E1B06DRLR.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(locked yes)
@@ -22702,6 +22790,17 @@
 			(uuid "f95e0fcb-4ea7-445d-bffa-a5fe569ac1d4")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/OPA388IDR/D0008A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(locked yes)
@@ -25565,6 +25664,17 @@
 			(uuid "d7064a65-3c6f-4389-b4bf-e9c8f428a063")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/LT3094EMSE_TRPBF/MSE_05-08-1666_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(locked yes)
@@ -26967,7 +27077,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -26978,7 +27088,7 @@
 			(effects
 				(font
 					(size 0.393701 0.393701)
-					(thickness 0.15)
+					(thickness 0.098425)
 				)
 			)
 		)
@@ -27139,6 +27249,17 @@
 			(uuid "a4e47a1c-64e4-4483-b96c-dd62879d477a")
 		)
 		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1008_2520Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(locked yes)
@@ -28095,6 +28216,17 @@
 			(uuid "9fdbadd3-5d85-42b2-a726-2adaa8969b22")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/AD8421ARMZ/RM_8_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Horizontal"
 		(locked yes)
@@ -29764,6 +29896,17 @@
 			(uuid "081c5cc5-5ebc-4383-8470-067d6061118f")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Parts/OPA388IDR/D0008A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(locked yes)
